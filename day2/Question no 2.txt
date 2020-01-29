@@ -1,0 +1,23 @@
+# Question No 2
+
+8bit =1 byte
+
+1024 bytes=1kb
+
+1024 kb=1mb
+
+1024 mb=1gb
+
+So 1 GB= 8*1024*1024*1024
+
+1 GB = 8564768768 bits
+
+8bit =1 byte
+
+1024 bytes=1kb
+
+1024 kb=1mb
+
+8*1024*1024
+
+So 1 MB = 8364032 bits
